@@ -19,8 +19,20 @@ Research Topic: Bio-inspired design of gas Turbine Blade
 Purdue University Dec 2019
 [Thesis Link](https://hammer.purdue.edu/articles/thesis/Bio-inspired_Design_of_a_Turbine_Stage/10055423)
 
-# Repository Summary
+# Public Repository Summary
 
+## Bash 
+### [Lock-file-testing](https://github.com/pjuangph/Lock-file-testing) 
+When you are running and using licenses on a super computer, sometimes you don't have enough licenses. This is an example built in shell to demonstrate how you can create a lock file so that one execution at a time uses a license or in my case, i create about 8 lock files for 8 licenses. 
+
+
+## Fortran 
+### [Fortran-cmake-unit-tests](https://github.com/pjuangph/fortran-cmake-unit-tests)
+This repository describes how to use fortran with cmake and apply unit tests with CTests
+
+### [Fortran](https://github.com/pjuangph/fortran
+This repo was made before I learned about cmake. I used this repo to tryout fortdepend. fortdepend helps generate the dependancies for the makefile. Makefiles are very particular about what is built in what order. You need all the dependancies built first then the main code but waht happens when dependancies depend on other dependancies. This is where you use fortdepends
+I also document how to install and configure your linux environment for nvfortran. 
 
 # Contributions to Open Source Projects
 ### [GlennOPT](https://github.com/nasa/GlennOPT) 
