@@ -30,7 +30,7 @@ When you are running and using licenses on a super computer, sometimes you don't
 ### [Fortran-cmake-unit-tests](https://github.com/pjuangph/fortran-cmake-unit-tests)
 This repository describes how to use fortran with cmake and apply unit tests with CTests
 
-### [Fortran](https://github.com/pjuangph/fortran
+### [Fortran](https://github.com/pjuangph/fortran)
 This repo was made before I learned about cmake. I used this repo to tryout fortdepend. fortdepend helps generate the dependancies for the makefile. Makefiles are very particular about what is built in what order. You need all the dependancies built first then the main code but waht happens when dependancies depend on other dependancies. This is where you use fortdepends
 I also document how to install and configure your linux environment for nvfortran. 
 
