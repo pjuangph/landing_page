@@ -44,7 +44,7 @@ This library seeks to help people connect mesh with solvers. Plot3D is a mesh st
 ### [PeTaL Labeller](https://github.com/nasa-petal/PeTaL-labeller)
 The petal labeller is a project that seeks to categorize biomimicry papers for engineers. Engineers are interested in lifeforms that have great thermal resistance, structural rigidity, ability to stick to things under water, etc. Life has has millions of years to evolve into the best version of itself. We as humans are in the beginnings of all our designs. If we can based designs off nature's evolution then perhaps we can have highly efficient airplanes with flapping wings or drones that look like bugs. Nature is one of our most valuable resources. There are many researchers dedicated towards understanding nature. Engineers often do not look at biology papers or know their terminology but we would like to search them. The goal of this tool is to help enable that. 
 
-## Airfoil-learning (https://github.com/nasa/airfoil-learning)
+## [Airfoil-learning](https://github.com/nasa/airfoil-learning)
 Airfoil Learning is a repository containing a tutorial on how to use Graph Neural Networks to predict coefficients of lift, drag, and moment. Graph Networks are a convolutional type of network that works with acyclic and cyclic graphs making the  useful in understanding the connection of points or point clouds. 
 
 
