@@ -49,6 +49,8 @@ Airfoil Learning is a repository containing a tutorial on how to use Graph Neura
 
 
 ## Machine Learning Projects
+I treat machine learning like learning a new language. At first you speak the sentences from the book, how to order food, donde esta la biblioteca; but later as you get more comfortable, you learn new words and build your own sentences. To learn sentences, I dive into other people's code and try to understand what's being passed into what, what's the size and structure of the data, how do you visualize the data, and document the network model so that one day I can develop my own unique architectures. 
+
 ### [Mesh Graph Networks](https://github.com/pjuangph/MGN) \(MGN Pytorch Library\)
 Added documentation and plotting. Documentation added includes the dataset, inputs and outputs of the model, code to automate the plotting and viewing of the results, the model architecture. Overall, this should help people who are new to Graph Networks understand how to structure their datasets and also understand the limitations of this type of network architecture. 
 
