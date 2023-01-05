@@ -47,6 +47,8 @@ The petal labeller is a project that seeks to categorize biomimicry papers for e
 ### [Airfoil-learning](https://github.com/nasa/airfoil-learning)
 Airfoil Learning is a repository containing a tutorial on how to use Graph Neural Networks to predict coefficients of lift, drag, and moment. Graph Networks are a convolutional type of network that works with acyclic and cyclic graphs making the  useful in understanding the connection of points or point clouds. 
 
+### [PyTurbo-Aero](https://github.com/nasa/pyturbo-aero) 
+Turbine Blade shape design tool. This tool allows for the entire airfoil shape to be designed in 2D then stacked to build a 3D geometry. This tool also allows for the flowpath to be created and blades positioned and stretched to match the streamline curvature.
 
 ## Machine Learning Projects
 I treat machine learning like learning a new language. At first you speak the sentences from the book, how to order food, donde esta la biblioteca; but later as you get more comfortable, you learn new words and build your own sentences. To learn sentences, I dive into other people's code and try to understand what's being passed into what, what's the size and structure of the data, how do you visualize the data, and document the network model so that one day I can develop my own unique architectures. 
