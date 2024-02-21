@@ -34,7 +34,7 @@ This repository describes how to use fortran with cmake and apply unit tests wit
 This repo was made before I learned about cmake. I used this repo to tryout fortdepend. fortdepend helps generate the dependancies for the makefile. Makefiles are very particular about what is built in what order. You need all the dependancies built first then the main code but waht happens when dependancies depend on other dependancies. This is where you use fortdepends
 I also document how to install and configure your linux environment for nvfortran. 
 
-# Contributions to Open Source Projects
+# Contributions to NASA Open Source Projects
 ### [GlennOPT](https://github.com/nasa/GlennOPT) 
 This is an Optimization Framework that is similar to [CADO](http://www1.dem.ist.utl.pt/engopt2010/Book_and_CD/Papers_CD_Final_Version/pdf/01/01297-01.pdf) except it is free and opensourced. It can be used to launch design optimizations on a super computer with Torque or Slurm queuing system. This is useful for generating designs to be used with machine learning. 
 
@@ -49,6 +49,9 @@ Airfoil Learning is a repository containing a tutorial on how to use Graph Neura
 
 ### [PyTurbo-Aero](https://github.com/nasa/pyturbo-aero) 
 Turbine Blade shape design tool. This tool allows for the entire airfoil shape to be designed in 2D then stacked to build a 3D geometry. This tool also allows for the flowpath to be created and blades positioned and stretched to match the streamline curvature.
+
+### [ShockTube-AUSM](https://github.com/nasa/shocktube)
+Implemented and corrected a minor detail in the AUSM scheme. This project shows the application of AUSM and AUSM+ to a shocktube application. 
 
 ## Machine Learning Projects
 I treat machine learning like learning a new language. At first you speak the sentences from the book, how to order food, donde esta la biblioteca; but later as you get more comfortable, you learn new words and build your own sentences. To learn sentences, I dive into other people's code and try to understand what's being passed into what, what's the size and structure of the data, how do you visualize the data, and document the network model so that one day I can develop my own unique architectures. 
