@@ -6,18 +6,16 @@ I am interested in automation and design. I view computer science as a tool that
 
 Below is my education summary: 
 
-BS Aeronautical Engineering
-Purdue University Dec 2010
-
-
-MS Aeronautical Engineering
-Purdue University Jun 2015 (not sure on the year, I skipped graduation) 
-
-
 PhD Aeronautical Engineering
 Research Topic: Bio-inspired design of gas Turbine Blade 
 Purdue University Dec 2019
 [Thesis Link](https://hammer.purdue.edu/articles/thesis/Bio-inspired_Design_of_a_Turbine_Stage/10055423)
+
+MS Aeronautical Engineering
+Purdue University Jun 2015 (not sure on the year, I skipped graduation) 
+
+BS Aeronautical Engineering
+Purdue University Dec 2010
 
 # Public Repository Summary
 
