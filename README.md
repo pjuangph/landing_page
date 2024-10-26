@@ -33,20 +33,27 @@ This repo was made before I learned about cmake. I used this repo to tryout fort
 I also document how to install and configure your linux environment for nvfortran. 
 
 # Contributions to NASA Open Source Projects
+### [Airfoil-learning](https://github.com/nasa/airfoil-learning)
+Airfoil Learning is a repository containing a tutorial on how to use Graph Neural Networks to predict coefficients of lift, drag, and moment. Graph Networks are a convolutional type of network that works with acyclic and cyclic graphs making the  useful in understanding the connection of points or point clouds. 
+
 ### [GlennOPT](https://github.com/nasa/GlennOPT) 
 This is an Optimization Framework that is similar to [CADO](http://www1.dem.ist.utl.pt/engopt2010/Book_and_CD/Papers_CD_Final_Version/pdf/01/01297-01.pdf) except it is free and opensourced. It can be used to launch design optimizations on a super computer with Torque or Slurm queuing system. This is useful for generating designs to be used with machine learning. 
-
-### [Plot3D Utilities](https://github.com/nasa/Plot3D_utilities)
-This library is used inform CFD solvers of how the faces of each block/cube in a mesh is connected with other blocks. Plot3D is a mesh standard developed by NASA to represent computational domains as sets of structured blocks with 6 sides. With this type of geometry, you can wrap it to create an o-mesh or stretch it to create a H-mesh. Different blocks can be connected forming a shape. Information can be exchange through the connected sides of the blocks. This python tool can be used to automatically find the connectivity and periodic faces of the block; these are the informations that a Computational Fluid Dynamic (CFD) solver requires. 
 
 ### [PeTaL Labeller](https://github.com/nasa-petal/PeTaL-labeller)
 The petal labeller is a project that seeks to categorize biomimicry papers for engineers. Engineers are interested in lifeforms that have great thermal resistance, structural rigidity, ability to stick to things under water, etc. Life has has millions of years to evolve into the best version of itself. We as humans are in the beginnings of all our designs. If we can based designs off nature's evolution then perhaps we can have highly efficient airplanes with flapping wings or drones that look like bugs. Nature is one of our most valuable resources. There are many researchers dedicated towards understanding nature. Engineers often do not look at biology papers or know their terminology but we would like to search them. The goal of this tool is to help enable that. 
 
-### [Airfoil-learning](https://github.com/nasa/airfoil-learning)
-Airfoil Learning is a repository containing a tutorial on how to use Graph Neural Networks to predict coefficients of lift, drag, and moment. Graph Networks are a convolutional type of network that works with acyclic and cyclic graphs making the  useful in understanding the connection of points or point clouds. 
+### [Plot3D Utilities](https://github.com/nasa/Plot3D_utilities)
+This library is used inform CFD solvers of how the faces of each block/cube in a mesh is connected with other blocks. Plot3D is a mesh standard developed by NASA to represent computational domains as sets of structured blocks with 6 sides. With this type of geometry, you can wrap it to create an o-mesh or stretch it to create a H-mesh. Different blocks can be connected forming a shape. Information can be exchange through the connected sides of the blocks. This python tool can be used to automatically find the connectivity and periodic faces of the block; these are the informations that a Computational Fluid Dynamic (CFD) solver requires. 
+
+### [Probe ML](https://github.com/nasa/multihole-probe-calibration)
+Example of how to calibrate a 5 hole probe using machine learning (MLP, KAN). This code supplements paper.
+Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.
 
 ### [PyTurbo-Aero](https://github.com/nasa/pyturbo-aero) 
 Turbine Blade shape design tool. This tool allows for the entire airfoil shape to be designed in 2D then stacked to build a 3D geometry. This tool also allows for the flowpath to be created and blades positioned and stretched to match the streamline curvature.
+
+### [Turbo Design](https://github.com/nasa/turbodesign) 
+This is a code that solves the radial equilibrium equations. It is used to design Axial/Centrifugal Turbines, Compressors. The purpose of this project is to enable machine learning loss models to be integrated. 
 
 ### [ShockTube-AUSM](https://github.com/nasa/shocktube)
 Implemented and corrected a minor detail in the AUSM scheme. This project shows the application of AUSM and AUSM+ to a shocktube application. 
