@@ -45,10 +45,6 @@ The petal labeller is a project that seeks to categorize biomimicry papers for e
 ### [Plot3D Utilities](https://github.com/nasa/Plot3D_utilities)
 This library is used inform CFD solvers of how the faces of each block/cube in a mesh is connected with other blocks. Plot3D is a mesh standard developed by NASA to represent computational domains as sets of structured blocks with 6 sides. With this type of geometry, you can wrap it to create an o-mesh or stretch it to create a H-mesh. Different blocks can be connected forming a shape. Information can be exchange through the connected sides of the blocks. This python tool can be used to automatically find the connectivity and periodic faces of the block; these are the informations that a Computational Fluid Dynamic (CFD) solver requires. 
 
-### [Probe ML](https://github.com/nasa/multihole-probe-calibration)
-Example of how to calibrate a 5 hole probe using machine learning (MLP, KAN). This code supplements paper.
-Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.
-
 ### [PyTurbo-Aero](https://github.com/nasa/pyturbo-aero) 
 Turbine Blade shape design tool. This tool allows for the entire airfoil shape to be designed in 2D then stacked to build a 3D geometry. This tool also allows for the flowpath to be created and blades positioned and stretched to match the streamline curvature.
 
@@ -64,4 +60,7 @@ I treat machine learning like learning a new language. At first you speak the se
 ### [Mesh Graph Networks](https://github.com/pjuangph/MGN) \(MGN Pytorch Library\)
 Added documentation and plotting. Documentation added includes the dataset, inputs and outputs of the model, code to automate the plotting and viewing of the results, the model architecture. Overall, this should help people who are new to Graph Networks understand how to structure their datasets and also understand the limitations of this type of network architecture. 
 
+### [Probe ML](https://github.com/nasa/multihole-probe-calibration)
+Example of how to calibrate a 5 hole probe using machine learning (MLP, KAN). This code supplements paper.
+Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.
 
