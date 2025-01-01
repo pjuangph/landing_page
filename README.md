@@ -1,5 +1,5 @@
 # About Me
-I like to solve data problems. I've been coding since I was in high school back in the 2000's. I started by reading books from microsoft back when they still published books. I practiced using vb6 because it was free. Later I went into C#, SQL. Now I do python, a little bit of rust, and I'm learning Julia. I love free stuff so open source is the way to go. 
+I enjoy talking to computers. I’ve been coding since high school in the 2000s. Initially, I learned by reading books published by Microsoft. I practiced using Visual Basic 6 because it was free. Later, I transitioned to C# and SQL. Currently, I work with Python, a bit of Rust, and I’m currently learning Julia. Since I value free resources, I prefer open-source software. 
 
 ## Education
 I am interested in automation and design. I view computer science as a tool that can help achieve that. I believe that the next leap in aeronautics will be in AI. We won't be able to get there without sharing data, and codes with excellent tutorials. The next generation of engineers will have to be both proficient in Data Science as well as engineering. 
