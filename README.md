@@ -48,7 +48,7 @@ This library is used inform CFD solvers of how the faces of each block/cube in a
 ### [PyTurbo-Aero](https://github.com/nasa/pyturbo-aero) 
 Turbine Blade shape design tool. This tool allows for the entire airfoil shape to be designed in 2D then stacked to build a 3D geometry. This tool also allows for the flowpath to be created and blades positioned and stretched to match the streamline curvature.
 
-### [Turbo Design](https://github.com/nasa/turbodesign) 
+### [Turbo Design](https://github.com/nasa/turbo-design) 
 This is a code that solves the radial equilibrium equations. It is used to design Axial/Centrifugal Turbines, Compressors. The purpose of this project is to enable machine learning loss models to be integrated. 
 
 ### [ShockTube-AUSM](https://github.com/nasa/shocktube)
