@@ -68,3 +68,5 @@ Added documentation and plotting. Documentation added includes the dataset, inpu
 Example of how to calibrate a 5 hole probe using machine learning (MLP, KAN). This code supplements paper.
 Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.
 
+### [How to beat a 10 year old girl in battleship using Transformers](https://github.com/pjuangph/battleship)
+Blog will be added soon
